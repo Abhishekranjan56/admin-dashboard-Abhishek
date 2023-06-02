@@ -1,4 +1,4 @@
-# admin-dashboard-Abhishek
+# admin-dashboard
 Folder Structure:
 
 - Root Folder
